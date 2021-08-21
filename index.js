@@ -46,7 +46,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What does the user need to know bin order to use this respository?',
+        message: 'What does the user need to know in order to use this respository?',
     },
     {
         type: 'input',
