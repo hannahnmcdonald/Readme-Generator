@@ -40,11 +40,11 @@ THEN I am taken to the corresponding section of the README
 * [Contributing](#Contributing)
 * [Questions](#Questions?)
 
-#Video
+# Video
 
 
 
-#Installation
+# Installation
 
 To install this application and all corresponding dependencies:
 ```
@@ -53,29 +53,29 @@ cd Readme-Generator
 npm install     
 ```
 
-#Usage
+# Usage
 The application will be invoked by using the following command:
 ```
 node index.js
 ```
 After this command is run, you will be given a serious of questions to which you will answer and press enter. After all questions are answered, your README.md will be generated in the current directory.
 
-#Technologies
+# Technologies
 
 * Node.js
 * npm inquirer
 * npm fs
 
-#License
+# License
 
 This repository is under the MIT License.
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-#Contributing
+# Contributing
 
 Contact me @ hannahcodes@protonmail.com
 
-#Questions?
+# Questions?
 
 Contact me @ hannahcodes@protonmail.com
 
