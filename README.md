@@ -1,4 +1,4 @@
-#** Readme.md Generator**
+#Readme.md Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 #Description
