@@ -1,11 +1,11 @@
 
-# **Example Readme Generator**
+# **example**
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Description
 
-Example description
+example
 
 # Table of Contents 
 * [Installation](#installation)
@@ -25,7 +25,7 @@ npm install
 
 # Usage
 
-Example
+example
 
 # License
  
@@ -33,7 +33,7 @@ This repository is under the MIT license.
 
 # Contributing
 
-Example
+example
 
 # Tests
 
