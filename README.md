@@ -31,7 +31,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-#Table of Contents
+# Table of Contents
 * [VideoWalkthrough](#Video)
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -69,6 +69,8 @@ After this command is run, you will be given a serious of questions to which you
 # License
 
 This repository is under the MIT License.
+
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Contributing
