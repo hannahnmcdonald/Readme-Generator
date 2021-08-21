@@ -3,7 +3,7 @@
 
 # Description
 
-This project is a command-line proffessional README.md generator using node, npm inquirer, and npm fs. Using this command line application, it is very easy to create a quality README.md quickly, so that you can devote more time to your code. 
+This project is a command-line professional README.md generator using node, npm inquirer, and npm fs. Using this command line application, it is very easy to create a quality README.md quickly, so that you can devote more time to your code. 
 
 # User Story
 ```
