@@ -44,6 +44,8 @@ THEN I am taken to the corresponding section of the README
 
 ![VideoWalkthrough](./Video.gif)
 
+Watch the full length demo ![here](https://drive.google.com/file/d/1V_0xTupUa2l-hZDh4OQZnol27__xyHi8/view?usp=sharing)
+
 # Installation
 
 To install this application and all corresponding dependencies:
