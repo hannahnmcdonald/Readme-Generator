@@ -77,7 +77,11 @@ This repository is under the MIT License.
 
 # Contributing
 
-Contact me @ hannahcodes@protonmail.com
+* **Fork** the repo from Github
+* **Clone** the repo locally
+* **Commit** your changes
+* **Push** to your branch
+* Open a **Pull** request for review
 
 # Questions?
 
